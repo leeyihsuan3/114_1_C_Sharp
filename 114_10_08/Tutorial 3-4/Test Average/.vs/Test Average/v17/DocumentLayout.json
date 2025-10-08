@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\m303\\Desktop\\114_1_C_Sharp\\114_10_08\\Tutorial 3-4\\Test Average\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0F6BB78B-BFFC-444D-A720-4E1E05740F50}|Test Average\\Test Average.csproj|c:\\users\\m303\\desktop\\114_1_c_sharp\\114_10_08\\tutorial 3-4\\test average\\test average\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F6BB78B-BFFC-444D-A720-4E1E05740F50}|Test Average\\Test Average.csproj|solutionrelative:test average\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F6BB78B-BFFC-444D-A720-4E1E05740F50}|Test Average\\Test Average.csproj|c:\\users\\m303\\desktop\\114_1_c_sharp\\114_10_08\\tutorial 3-4\\test average\\test average\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0F6BB78B-BFFC-444D-A720-4E1E05740F50}|Test Average\\Test Average.csproj|solutionrelative:test average\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F6BB78B-BFFC-444D-A720-4E1E05740F50}|Test Average\\Test Average.csproj|c:\\users\\m303\\desktop\\114_1_c_sharp\\114_10_08\\tutorial 3-4\\test average\\test average\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F6BB78B-BFFC-444D-A720-4E1E05740F50}|Test Average\\Test Average.csproj|solutionrelative:test average\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F6BB78B-BFFC-444D-A720-4E1E05740F50}|Test Average\\Test Average.csproj|C:\\Users\\m303\\Desktop\\114_1_C_Sharp\\114_10_08\\Tutorial 3-4\\Test Average\\test average\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F6BB78B-BFFC-444D-A720-4E1E05740F50}|Test Average\\Test Average.csproj|solutionrelative:test average\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\m303\\Desktop\\114_1_C_Sharp\\114_10_08\\Tutorial 3-4\\Test Average\\Test Average\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Test Average\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\m303\\Desktop\\114_1_C_Sharp\\114_10_08\\Tutorial 3-4\\Test Average\\Test Average\\Form1.Designer.cs",
+              "RelativeToolTip": "Test Average\\Form1.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-08T03:49:51.106Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [\u8A2D\u8A08]",
+              "DocumentMoniker": "C:\\Users\\m303\\Desktop\\114_1_C_Sharp\\114_10_08\\Tutorial 3-4\\Test Average\\Test Average\\Form1.cs",
+              "RelativeDocumentMoniker": "Test Average\\Form1.cs",
+              "ToolTip": "C:\\Users\\m303\\Desktop\\114_1_C_Sharp\\114_10_08\\Tutorial 3-4\\Test Average\\Test Average\\Form1.cs [\u8A2D\u8A08]",
+              "RelativeToolTip": "Test Average\\Form1.cs [\u8A2D\u8A08]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-08T03:49:42.072Z",
+              "EditorCaption": " [\u8A2D\u8A08]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\m303\\Desktop\\114_1_C_Sharp\\114_10_08\\Tutorial 3-4\\Test Average\\Test Average\\Form1.cs",
+              "RelativeDocumentMoniker": "Test Average\\Form1.cs",
+              "ToolTip": "C:\\Users\\m303\\Desktop\\114_1_C_Sharp\\114_10_08\\Tutorial 3-4\\Test Average\\Test Average\\Form1.cs",
+              "RelativeToolTip": "Test Average\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T08:00:39.69Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\m303\\Desktop\\114_1_C_Sharp\\114_10_08\\Tutorial 3-4\\Test Average\\Test Average\\Program.cs",
+              "RelativeDocumentMoniker": "Test Average\\Program.cs",
+              "ToolTip": "C:\\Users\\m303\\Desktop\\114_1_C_Sharp\\114_10_08\\Tutorial 3-4\\Test Average\\Test Average\\Program.cs",
+              "RelativeToolTip": "Test Average\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T08:00:33.541Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
