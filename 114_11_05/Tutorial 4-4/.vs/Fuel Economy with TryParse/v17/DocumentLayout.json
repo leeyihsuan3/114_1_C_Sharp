@@ -1,0 +1,78 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\m303\\Downloads\\114_1_C_Sharp_Tutorial-main\\114_1_C_Sharp_Tutorial-main\\Chapter 04\\Tutorial 4-4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3ABB3066-E2A9-4D94-9789-17F3F820FEDE}|Fuel Economy with TryParse\\Fuel Economy with TryParse.csproj|C:\\Users\\m303\\Downloads\\114_1_C_Sharp_Tutorial-main\\114_1_C_Sharp_Tutorial-main\\Chapter 04\\Tutorial 4-4\\fuel economy with tryparse\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3ABB3066-E2A9-4D94-9789-17F3F820FEDE}|Fuel Economy with TryParse\\Fuel Economy with TryParse.csproj|solutionrelative:fuel economy with tryparse\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3ABB3066-E2A9-4D94-9789-17F3F820FEDE}|Fuel Economy with TryParse\\Fuel Economy with TryParse.csproj|c:\\users\\m303\\downloads\\114_1_c_sharp_tutorial-main\\114_1_c_sharp_tutorial-main\\chapter 04\\tutorial 4-4\\fuel economy with tryparse\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3ABB3066-E2A9-4D94-9789-17F3F820FEDE}|Fuel Economy with TryParse\\Fuel Economy with TryParse.csproj|solutionrelative:fuel economy with tryparse\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3ABB3066-E2A9-4D94-9789-17F3F820FEDE}|Fuel Economy with TryParse\\Fuel Economy with TryParse.csproj|c:\\users\\m303\\downloads\\114_1_c_sharp_tutorial-main\\114_1_c_sharp_tutorial-main\\chapter 04\\tutorial 4-4\\fuel economy with tryparse\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3ABB3066-E2A9-4D94-9789-17F3F820FEDE}|Fuel Economy with TryParse\\Fuel Economy with TryParse.csproj|solutionrelative:fuel economy with tryparse\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{56df62a4-05a3-4e5b-aa1a-99371ccfb997}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\m303\\Downloads\\114_1_C_Sharp_Tutorial-main\\114_1_C_Sharp_Tutorial-main\\Chapter 04\\Tutorial 4-4\\Fuel Economy with TryParse\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Fuel Economy with TryParse\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\m303\\Downloads\\114_1_C_Sharp_Tutorial-main\\114_1_C_Sharp_Tutorial-main\\Chapter 04\\Tutorial 4-4\\Fuel Economy with TryParse\\Form1.Designer.cs",
+              "RelativeToolTip": "Fuel Economy with TryParse\\Form1.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFsAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T03:30:08.792Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\m303\\Downloads\\114_1_C_Sharp_Tutorial-main\\114_1_C_Sharp_Tutorial-main\\Chapter 04\\Tutorial 4-4\\Fuel Economy with TryParse\\Form1.cs",
+              "RelativeDocumentMoniker": "Fuel Economy with TryParse\\Form1.cs",
+              "ToolTip": "C:\\Users\\m303\\Downloads\\114_1_C_Sharp_Tutorial-main\\114_1_C_Sharp_Tutorial-main\\Chapter 04\\Tutorial 4-4\\Fuel Economy with TryParse\\Form1.cs",
+              "RelativeToolTip": "Fuel Economy with TryParse\\Form1.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAC0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T05:51:52.837Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [\u8A2D\u8A08]",
+              "DocumentMoniker": "C:\\Users\\m303\\Downloads\\114_1_C_Sharp_Tutorial-main\\114_1_C_Sharp_Tutorial-main\\Chapter 04\\Tutorial 4-4\\Fuel Economy with TryParse\\Form1.cs",
+              "RelativeDocumentMoniker": "Fuel Economy with TryParse\\Form1.cs",
+              "ToolTip": "C:\\Users\\m303\\Downloads\\114_1_C_Sharp_Tutorial-main\\114_1_C_Sharp_Tutorial-main\\Chapter 04\\Tutorial 4-4\\Fuel Economy with TryParse\\Form1.cs [\u8A2D\u8A08]",
+              "RelativeToolTip": "Fuel Economy with TryParse\\Form1.cs [\u8A2D\u8A08]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T05:51:43.281Z",
+              "EditorCaption": " [\u8A2D\u8A08]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
