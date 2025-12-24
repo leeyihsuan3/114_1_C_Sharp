@@ -1,0 +1,5 @@
+C:\Users\m303\Desktop\114_1_C_Sharp\114上期末上機\Q1\Q1\obj\Debug\Q1.csproj.AssemblyReference.cache
+C:\Users\m303\Desktop\114_1_C_Sharp\114上期末上機\Q1\Q1\obj\Debug\Q1.Form1.resources
+C:\Users\m303\Desktop\114_1_C_Sharp\114上期末上機\Q1\Q1\obj\Debug\Q1.Properties.Resources.resources
+C:\Users\m303\Desktop\114_1_C_Sharp\114上期末上機\Q1\Q1\obj\Debug\Q1.csproj.GenerateResource.cache
+C:\Users\m303\Desktop\114_1_C_Sharp\114上期末上機\Q1\Q1\obj\Debug\Q1.csproj.CoreCompileInputs.cache
