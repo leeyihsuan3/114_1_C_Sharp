@@ -1,0 +1,11 @@
+C:\Users\m303\Desktop\114_1_C_Sharp\114上期末上機\Q2\Q2\bin\Debug\Q2.exe.config
+C:\Users\m303\Desktop\114_1_C_Sharp\114上期末上機\Q2\Q2\bin\Debug\Q2.exe
+C:\Users\m303\Desktop\114_1_C_Sharp\114上期末上機\Q2\Q2\bin\Debug\Q2.pdb
+C:\Users\m303\Desktop\114_1_C_Sharp\114上期末上機\Q2\Q2\obj\Debug\Q2.csproj.AssemblyReference.cache
+C:\Users\m303\Desktop\114_1_C_Sharp\114上期末上機\Q2\Q2\obj\Debug\Q2.Form1.resources
+C:\Users\m303\Desktop\114_1_C_Sharp\114上期末上機\Q2\Q2\obj\Debug\Q2.Properties.Resources.resources
+C:\Users\m303\Desktop\114_1_C_Sharp\114上期末上機\Q2\Q2\obj\Debug\Q2.csproj.GenerateResource.cache
+C:\Users\m303\Desktop\114_1_C_Sharp\114上期末上機\Q2\Q2\obj\Debug\Q2.csproj.CoreCompileInputs.cache
+C:\Users\m303\Desktop\114_1_C_Sharp\114上期末上機\Q2\Q2\obj\Debug\Q2.exe
+C:\Users\m303\Desktop\114_1_C_Sharp\114上期末上機\Q2\Q2\obj\Debug\Q2.pdb
+C:\Users\m303\Desktop\114_1_C_Sharp\114上期末上機\Q2\Q2\obj\Debug\Q2.exe.config
